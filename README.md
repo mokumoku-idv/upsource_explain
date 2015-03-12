@@ -20,4 +20,5 @@ you can set port which you want to set at --listen-port.
 
 # Reference
 * https://www.jetbrains.com/upsource/help/1.0/install_config.html
-
+* http://siosio.hatenablog.com/entry/2014/08/16/225428#f-cb39c3ad
+* http://siosio.hatenablog.com/entry/2014/08/15/103405
