@@ -16,6 +16,9 @@ bin/upsource.sh configure --listen-port 1111
 ```
 you can set port which you want to set at --listen-port.
 
+何回もやるとおかしくなるので、一度やっておかしくなったら、ディレクトリを一旦変えたほうがいいかも
+this soft become confusing if config set at many times.if system become confusing,you should change upsource dir.
+
 
 
 # Reference
